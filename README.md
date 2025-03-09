@@ -5,7 +5,7 @@ A modern, responsive landing page designed to showcase your product or service. 
 ## Live Demo
 
 - **Deployed Domain:** https://v0-intelion-landing-page-rosy.vercel.app/
-- **Demo Video:** [https://your-demo-video-link.com](https://your-demo-video-link.com)
+- **Demo Video:** https://drive.google.com/file/d/1Tvo9wA_n-J3_KJ6gAGQh9Z7r5QWGVJpU/view?usp=sharing
 
 ## Features
 
